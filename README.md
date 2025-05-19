@@ -18,15 +18,15 @@ Este projeto foi desenvolvido como parte de um teste técnico para um processo s
 ## 💡 Aprendizados
 Durante os 4 dias dedicados a este projeto, adquiri conhecimentos em:
 
-Posicionamento avançado com CSS Flexbox
+- Posicionamento avançado com CSS Flexbox
 
-Estilização de tabelas e listas
+- Estilização de tabelas e listas
 
-Integração de iframes (Google Maps)
+- Integração de iframes (Google Maps)
 
-Responsividade básica
+- Responsividade básica
 
-Manutenção de proporções e espaçamentos
+- Manutenção de proporções e espaçamentos
 
 ## 📧 Contato
 Estou buscando oportunidades profissionais! Se gostou do meu trabalho, entre em contato:
